@@ -1,5 +1,4 @@
-# khayo
-hi this is my first profile
+
 <h1 align="center">Hi 👋, I'm kalid moh</h1>
 <h3 align="center">i`m student learn webdev and fullstock .cooding</h3>
 
